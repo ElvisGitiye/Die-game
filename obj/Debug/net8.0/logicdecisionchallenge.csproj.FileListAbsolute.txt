@@ -1,0 +1,14 @@
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\bin\Debug\net8.0\logicdecisionchallenge.exe
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\bin\Debug\net8.0\logicdecisionchallenge.deps.json
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\bin\Debug\net8.0\logicdecisionchallenge.runtimeconfig.json
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\bin\Debug\net8.0\logicdecisionchallenge.dll
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\bin\Debug\net8.0\logicdecisionchallenge.pdb
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.AssemblyInfoInputs.cache
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.AssemblyInfo.cs
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.dll
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\refint\logicdecisionchallenge.dll
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.pdb
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\logicdecisionchallenge.genruntimeconfig.cache
+C:\Users\Elvis\Source\Repos\New folder\logicdecisionchallenge\obj\Debug\net8.0\ref\logicdecisionchallenge.dll
